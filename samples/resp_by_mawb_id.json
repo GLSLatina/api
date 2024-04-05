@@ -1,0 +1,66 @@
+{
+    "mawb_id": "123-12345678",
+    "time_zone": "Europe/Rome",
+    "trackings": [
+        {
+            "operation_status_code": "100",
+            "tracking_description": "ata",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "101",
+            "tracking_description": "noa",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "102",
+            "tracking_description": "pickup",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "103",
+            "tracking_description": "warehouse_arrival",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "104",
+            "tracking_description": "customs_cleared",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "105",
+            "tracking_description": "customs_exception",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        }
+    ]
+}

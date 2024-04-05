@@ -1,0 +1,97 @@
+{
+    "mawb_id": "123-12345678",
+    "time_zone": "Europe/Rome",
+    "tracking_id": "LT641122059",
+    "trackings": [
+        {
+            "operation_status_code": "100",
+            "tracking_description": "ata",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "101",
+            "tracking_description": "noa",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "102",
+            "tracking_description": "pickup",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "103",
+            "tracking_description": "warehouse_arrival",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "104",
+            "tracking_description": "customs_cleared",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "105",
+            "tracking_description": "customs_exception",
+            "operating_time": "2024-04-04 16:19:00.0",
+            "operating_location": "Fiumicino",
+            "country": "Italy",
+            "state_province": "RM",
+            "city": "Fiumicino",
+            "post_code": "00054"
+        },
+        {
+            "operation_status_code": "909",
+            "tracking_description": "Dati spedizione trasmessi a GLS",
+            "operating_time": "2024-04-04 16:19:00",
+            "operating_location": "Latina",
+            "country": "Italy",
+            "state_province": "LT",
+            "city": "Latina",
+            "post_code": "04100"
+        },
+        {
+            "operation_status_code": "902",
+            "tracking_description": "Partita dalla sede mittente. In transito.",
+            "operating_time": "2024-04-05 00:00:00",
+            "operating_location": "Latina",
+            "country": "Italy",
+            "state_province": "LT",
+            "city": "Latina",
+            "post_code": "04100"
+        },
+        {
+            "operation_status_code": "904",
+            "tracking_description": "Arrivata nella Sede GLS locale.",
+            "operating_time": "2024-04-05 00:00:00",
+            "operating_location": "Latina",
+            "country": "Italy",
+            "state_province": "LT",
+            "city": "Latina",
+            "post_code": "04100"
+        }
+    ]
+}
