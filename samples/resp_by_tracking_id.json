@@ -1,6 +1,7 @@
 {
-    "mawb_id": "123-12345678",
+    "resp_status": "ok / err",
     "time_zone": "Europe/Rome",
+    "mawb_id": "123-12345678",
     "tracking_id": "LT641122059",
     "trackings": [
         {

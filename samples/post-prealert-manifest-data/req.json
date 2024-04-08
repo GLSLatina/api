@@ -1,0 +1,11 @@
+{
+    "airport": "FCO",
+    "awb": "123-12345678",
+    "flight": "GTEQW",
+    "eta": "08/04/24, 21:31",
+    "etd": "08/04/24, 21:32",
+    "total_box_num": "50",
+    "total_no_of_packets": "155",
+    "pcs_total_weight": "15.3",
+    "manifest_file": "manifest file binary data"
+}
