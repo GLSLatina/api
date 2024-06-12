@@ -5,7 +5,11 @@
 Retrieve tracking information for a MAWB ID.
 
 ```http
-  GET /path/to/api/${mawb-id}
+  GET http://api.glslatina.it/mawb/${mawb-id}
+```
+This is an example:
+```http
+  GET https://api.glslatina.it/mawb/123-123456
 ```
 
 | HTTP Header | Type     | Description                |
@@ -39,7 +43,12 @@ and the possible status codes are `HTTP` compliant as table below :
 Retrieve tracking information for a tracking ID ( GLS parcel ID ).
 
 ```http
-  GET /path/to/api/${tracking-id}
+  GET http://api.glslatina.it/tracking/${tracking-id}
+```
+
+This is an example:
+```http
+  GET http://api.glslatina.it/tracking/LT641705288 
 ```
 
 | HTTP Header | Type     | Description                |
