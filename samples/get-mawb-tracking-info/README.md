@@ -48,7 +48,7 @@ Retrieve tracking information for a tracking ID ( GLS parcel ID ).
 
 This is an example:
 ```http
-  GET http://api.glslatina.it/tracking/LT641705288 
+  GET http://api.glslatina.it/tracking/LT642428350
 ```
 
 | HTTP Header | Type     | Description                |
