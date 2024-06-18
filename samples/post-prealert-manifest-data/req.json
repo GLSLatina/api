@@ -1,11 +1,109 @@
 {
-    "airport": "FCO",
-    "awb": "123-12345678",
-    "flight": "GTEQW",
-    "eta": "2024-04-04 16:19:00",
-    "etd": "2024-04-04 16:19:00",
-    "total_box_num": "50",
-    "total_no_of_packets": "155",
-    "pcs_total_weight": "15.3",
-    "manifest_file_data": {}
+    "airport_code_departure": "CAN",
+    "airport_code_destination": "FCO",
+    "mawb": "112-13492135",
+    "flight": "QR8941",
+    "eta": "12/04/2022 2:00:00 PM",
+    "etd": "12/03/2022 4:00:00 AM",
+    "total_box_num": "104",
+    "total_no_of_packets": "2843",
+    "pcs_total_weight": "2156",
+    "manifest_data": {
+        "cartons": 
+        [
+            {
+                "ioss_number": "IM3720013929",
+                "shipper_name": "TEMU",
+                "ship_add1": "GUANGX HONG MAIN RD NANCUN TOWN PANYU DTRC N6",
+                "ship_add2": "GUANGX HONG MAIN RD NANCUN TOWN PANYU DTRC N6",
+                "ship_city": "GUANGZHOU",
+                "ship_state": "CINA",
+                "ship_country_code": "455444",
+                "parcels": 
+                [
+                    {
+                        "tracking_number": "LT621783955",
+                        "invoice_number": "BG2211281004925",
+                        "reference_code": "WT2233301256001846",
+                        "item_sku": "sn2206205570377382",
+                        "item_hscode": "950300",
+                        "item_description": "Toy",
+                        "pieces": "1",
+                        "total_weight": "0.06",
+                        "consignee_address1": "VIA VITTORIO BERSEZIO 11",
+                        "consignee_city": "Torino",
+                        "consignee_zip_code": "61029",
+                        "consignee_state": "PU",
+                        "consignee": "MARIO ROSSI",
+                        "consignee_phone": "3402737104",
+                        "total_value": "2.55"
+                    },
+                    {
+                        "tracking_number": "LT641783955",
+                        "invoice_number": "AE4411281004925",
+                        "reference_code": "TT2233301256001846",
+                        "item_sku": "sn2207205570377382",
+                        "item_hscode": "750300",
+                        "item_description": "Dress",
+                        "pieces": "1",
+                        "total_weight": "0.25",
+                        "consignee_address1": "VIA DELLE INDUSTRIE 52",
+                        "consignee_city": "Latina",
+                        "consignee_zip_code": "04013",
+                        "consignee_state": "LAZ",
+                        "consignee": "MARIO ROSSI",
+                        "consignee_phone": "3412737104",
+                        "total_value": "9.57"
+                    }
+
+                ] 
+            },
+            {
+                "ioss_number": "IM4720013929",
+                "shipper_name": "TEMU",
+                "ship_add1": "GUANGX HONG MAIN RD NANCUN TOWN PANYU DTRC N6",
+                "ship_add2": "GUANGX HONG MAIN RD NANCUN TOWN PANYU DTRC N6",
+                "ship_city": "GUANGZHOU",
+                "ship_state": "CINA",
+                "ship_country_code": "455444",
+                "parcels": 
+                [
+                    {
+                        "tracking_number": "LT621783943",
+                        "invoice_number": "BG2211281004927",
+                        "reference_code": "AT2233301256001846",
+                        "item_sku": "bn2206205570377382",
+                        "item_hscode": "957300",
+                        "item_description": "Cover",
+                        "pieces": "1",
+                        "total_weight": "0.07",
+                        "consignee_address1": "VIA VITTORIO BERSEZIO 11",
+                        "consignee_city": "Torino",
+                        "consignee_zip_code": "61029",
+                        "consignee_state": "PU",
+                        "consignee": "MARIO ROSSI",
+                        "consignee_phone": "3402737104",
+                        "total_value": "2.55"
+                    },
+                    {
+                        "tracking_number": "LT641783976",
+                        "invoice_number": "EA4411281004925",
+                        "reference_code": "TS2233301256001846",
+                        "item_sku": "hn2207205570377382",
+                        "item_hscode": "751300",
+                        "item_description": "Book",
+                        "pieces": "1",
+                        "total_weight": "0.90",
+                        "consignee_address1": "VIA DELLE INDUSTRIE 54",
+                        "consignee_city": "Latina",
+                        "consignee_zip_code": "04013",
+                        "consignee_state": "LAZ",
+                        "consignee": "LORENZO ROSSI",
+                        "consignee_phone": "3412737104",
+                        "total_value": "11.57"
+                    }
+                ] 
+            }
+        ]
+    }
 }
