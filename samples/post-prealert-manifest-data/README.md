@@ -1,19 +1,21 @@
 # API Reference
 
 ## Request 
-The following API allows the insertion of manifest pre-alert data.
+The following API allows the sending of manifest pre-alert data to the GLS-LT system.  
 
 URL request:
 
 ```http
-  POST /path/to/api/
+  POST http://api.glslatina.it/prealert
 ```
+
 Header request:
 | HTTP Header | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `x-api-key` | `string` | **Required**. Provided API key |
 
-Body request is in **JSON** as shown in  `req.json`.
+Body request is in **JSON** as shown in  `req.json`;  
+**Note**: the `manifest_file_data` json object is still under review.
 
 ## Response
 
