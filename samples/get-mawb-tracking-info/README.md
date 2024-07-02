@@ -18,7 +18,7 @@ This is an example:
 
 | REST Param | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `mawb-id`      | `string` | **Required**. ID of a valid MAWB e.g. `123-12345678`|
+| `mawb-id`      | `string` | **Required**. ID of a valid MAWB. |
 
 
 ## Response
@@ -48,7 +48,7 @@ Retrieve tracking information for a tracking ID ( GLS parcel ID ).
 
 This is an example:
 ```http
-  GET http://api.glslatina.it/tracking/LT642428350
+  GET http://api.glslatina.it/tracking/LT641122059
 ```
 
 | HTTP Header | Type     | Description                |
@@ -57,7 +57,7 @@ This is an example:
 
 | REST Param | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `tracking-id`      | `string` | **Required**. ID of a valid tracking ID e.g. `LT641122059`|
+| `tracking-id`      | `string` | **Required**. ID of a valid tracking. |
 
 
 
