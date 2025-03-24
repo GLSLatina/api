@@ -1,0 +1,67 @@
+{
+    "resp_status": "ok",
+    "time_zone": "Europe/Rome",
+    "tracking_id": "LT643635266",
+    "trackings": [
+        {
+            "city": "Latina",
+            "country": "Italy",
+            "operating_location": "Latina",
+            "operating_time": "2024-07-23 00:00:00",
+            "operation_status_code": "901",
+            "post_code": "04100",
+            "state_province": "LT",
+            "tracking_description": "La spedizione e' stata creata dal mittente, attendiamo che ci venga affidata per l'invio a destinazione."
+        },
+        {
+            "city": "Latina",
+            "country": "Italy",
+            "operating_location": "Latina",
+            "operating_time": "2024-07-30 16:09:00",
+            "operation_status_code": "909",
+            "post_code": "04100",
+            "state_province": "LT",
+            "tracking_description": "La spedizione e' stata creata dal mittente, attendiamo che ci venga affidata per l'invio a destinazione."
+        },
+        {
+            "city": "Latina",
+            "country": "Italy",
+            "operating_location": "Latina",
+            "operating_time": "2024-07-30 16:26:00",
+            "operation_status_code": "902",
+            "post_code": "04100",
+            "state_province": "LT",
+            "tracking_description": "Partita dalla sede mittente. In transito."
+        },
+        {
+            "city": "Portico Di Caserta",
+            "country": "Italy",
+            "operating_location": "Capua",
+            "operating_time": "2024-07-31 08:19:00",
+            "operation_status_code": "904",
+            "post_code": "81050",
+            "state_province": "CE",
+            "tracking_description": "Arrivata nella Sede GLS locale."
+        },
+        {
+            "city": "Portico Di Caserta",
+            "country": "Italy",
+            "operating_location": "Capua",
+            "operating_time": "2024-07-31 08:20:00",
+            "operation_status_code": "905",
+            "post_code": "81050",
+            "state_province": "CE",
+            "tracking_description": "Consegna prevista nel corso della giornata odierna."
+        },
+        {
+            "city": "Portico Di Caserta",
+            "country": "Italy",
+            "operating_location": "Portico Di Caserta",
+            "operating_time": "2024-07-31 11:32:00",
+            "operation_status_code": "906",
+            "post_code": "81050",
+            "state_province": "CE",
+            "tracking_description": "Consegnata."
+        }
+    ]
+}
